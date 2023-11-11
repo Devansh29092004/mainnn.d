@@ -1,0 +1,72 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Your Font', Arial, sans-serif; /* Replace 'Your Font' with your chosen font */
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #ffcc00;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Contact Information section styles */
+  .contact {
+    
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-size: 24px;
+  }
+  
+  .contact p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333; /* Match the color scheme of your index page */
+  }
+  
+  .contact a {
+    color: #0070C0; /* Link color */
+    text-decoration: none;
+  }
+  
+  /* Footer styles */
+  footer {
+   
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+  }
+  .social-media-icons a {
+    color: #000; /* Black icon color */
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 24px;
+  }

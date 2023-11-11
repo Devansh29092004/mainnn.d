@@ -1,0 +1,94 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Your Font', Arial, sans-serif; 
+    background-color: #f2f2f2;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #ffcc00;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* About Us section styles */
+  .about-us {
+    padding: 20px;
+    text-align: center;
+    
+  }
+  
+  .about-us h2 {
+    font-size: 24px;
+  }
+  
+  .about-us p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333; 
+  }
+  
+  /* Team section styles */
+  .team {
+    padding: 20px;
+    text-align: center;
+   
+  }
+  
+  .team h2 {
+    font-size: 24px;
+  }
+  
+  .team p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333; 
+  }
+  
+  .team ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .team li {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  /* Footer styles */
+  footer {
+   
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+  }
+  .social-media-icons a {
+    color: #000; /* Black icon color */
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 24px;
+  }
